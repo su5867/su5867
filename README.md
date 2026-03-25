@@ -1,27 +1,46 @@
-<!-- Banner / Intro -->
+<!-- =========================
+     GITHUB PROFILE README
+     Username: su5867
+========================= -->
+
 <h1 align="center">Hi 👋, I'm Supriya Dwivedi</h1>
-<h3 align="center">BSc CSIT Student | Java & Spring Boot Developer | Full-Stack Web Developer</h3>
+<h3 align="center">💻 BSc CSIT Student | ☕ Java & Spring Boot Developer | 🌐 Full-Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Enthusiast;Full-Stack+Web+Developer;Always+Learning+and+Building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Enthusiast;Full-Stack+Web+Developer;Building+Projects+and+Learning+Every+Day+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/su5867">
+    <img src="https://img.shields.io/github/followers/su5867?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/su5867?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge" />
+  </a>
+  <a href="mailto:me.supriya07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/supriya-dwivedi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💫 About Me
+## 🌸 About Me
 
-- 🎓 I'm currently a **BSc CSIT Student**
-- 💻 I love building **real-world software projects**
-- ☕ My main focus is **Java, Spring Boot, MySQL, and Full-Stack Development**
-- 🌱 Currently learning more about **backend architecture, APIs, security, and scalable web applications**
-- 🚀 I enjoy turning ideas into working projects
-- 📌 Interested in both **academic projects** and **practical development**
+- 🎓 Currently pursuing **BSc CSIT**
+- 💻 Passionate about **software development and full-stack web applications**
+- ☕ Strong interest in **Java, Spring Boot, MySQL, and backend systems**
+- 🎨 Also enjoy working on **frontend design and user-friendly interfaces**
+- 🚀 Love creating **academic, portfolio, and real-world software projects**
+- 📚 Always learning and improving through **projects and practice**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
 </p>
@@ -31,7 +50,7 @@
   <img src="https://skillicons.dev/icons?i=spring,bootstrap,tailwind" />
 </p>
 
-### 🗄️ Database & Backend Tools
+### 🗄️ Database & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
@@ -45,34 +64,42 @@
 
 ## 🚀 Featured Projects
 
-### ♟️ Chess Game
-A chess-based project focused on game logic, structured design, and interactive implementation.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📝 Online Examination System</h3>
+      <p>A Java Spring Boot based web application for online exams with structured backend and frontend integration.</p>
+    </td>
+    <td width="50%">
+      <h3>📦 Online Order Management System</h3>
+      <p>A project designed to manage products, orders, and user operations in a practical system workflow.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛍️ TechShop</h3>
+      <p>An e-commerce inspired project focused on product display, system structure, and web functionality.</p>
+    </td>
+    <td width="50%">
+      <h3>♟️ Chess Game</h3>
+      <p>A logic-based project built to practice interactivity, game rules, and frontend/backend coordination.</p>
+    </td>
+  </tr>
+</table>
 
-### 🛒 Online Auction System
-A software project designed to simulate auction functionality with user interaction and structured workflows.
-
-### 🛍️ TechShop
-An e-commerce inspired project built to practice product management, UI design, and web system structure.
-
-### 📝 Online Examination System
-A Java Spring Boot based application for conducting online exams with user roles, exam flow, and result handling.
-
-### 📦 Online Order Management System
-A complete management-based project for handling products, orders, and user operations.
-
-> 📌 *More projects are available in my repositories below.*
+> 📌 **More projects are available in my repositories.**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=su5867&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su5867&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=su5867&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su5867&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=su5867&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=su5867&theme=tokyonight" />
 </p>
 
 ---
@@ -80,7 +107,15 @@ A complete management-based project for handling products, orders, and user oper
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=su5867&theme=tokyonight&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=su5867&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=su5867&theme=tokyo-night" />
 </p>
 
 ---
@@ -93,13 +128,13 @@ A complete management-based project for handling products, orders, and user oper
   </a>
   &nbsp;
   <a href="mailto:me.supriya07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ✨ Developer Quote
+## ✨ Motto
 
 > **"Learning, building, and improving one project at a time."**
 
@@ -108,5 +143,5 @@ A complete management-based project for handling products, orders, and user oper
 ## 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=su5867&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=su5867&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
