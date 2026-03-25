@@ -80,7 +80,7 @@
     <td width="50%">
       <h3>🛍️ <a href="https://github.com/su5867/TechShop" target="_blank">TechShop</a></h3>
       <p>An <strong>e-commerce inspired web project</strong> focusing on product display, structured system design, and responsive frontend.</p>
-      <p>💻 Tech: Java, Spring Boot, MySQL, HTML, CSS, JavaScript</p>
+      <p>💻 Tech: HTML, CSS, JavaScript</p>
     </td>
     <td width="50%">
       <h3>♟️ <a href="https://github.com/su5867/Chess-Game" target="_blank">Chess Game</a></h3>
@@ -92,7 +92,7 @@
     <td width="50%">
       <h3>🔨 <a href="https://github.com/su5867/Online-Auction-System" target="_blank">Online Auction System</a></h3>
       <p>A <strong>web application simulating auction workflows</strong>, with bidding logic, user authentication, and frontend-backend integration.</p>
-      <p>💻 Tech: Java, Spring Boot, MySQL, HTML, CSS, JavaScript</p>
+      <p>💻 Tech: Typescript</p>
     </td>
 </table>
 
