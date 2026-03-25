@@ -66,43 +66,37 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>📝 Online Examination System</h3>
-      <p>A **full-stack Java Spring Boot** web app for online exams with user authentication, role-based access, question management, and result generation.</p>
+      <h3>📝 <a href="https://github.com/su5867/Online-Examination-System" target="_blank">Online Examination System</a></h3>
+      <p>A <strong>full-stack Java Spring Boot</strong> web app for online exams with user authentication, role-based access, question management, and result generation.</p>
       <p>💻 Tech: Java, Spring Boot, MySQL, HTML, CSS, JavaScript</p>
     </td>
     <td width="50%">
-      <h3>📦 Online Order Management System</h3>
-      <p>Manage products, customer orders, and admin operations with a **web-based CRUD system**. Demonstrates backend logic and workflow management.</p>
+      <h3>📦 <a href="https://github.com/su5867/Online-Order-Management-System" target="_blank">Online Order Management System</a></h3>
+      <p>Manage products, customer orders, and admin operations with a <strong>web-based CRUD system</strong>. Demonstrates backend logic and workflow management.</p>
       <p>💻 Tech: Java, Spring Boot, MySQL, HTML, CSS, JavaScript</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🛍️ TechShop</h3>
-      <p>An **e-commerce inspired web project** focusing on product display, structured system design, and responsive frontend.</p>
+      <h3>🛍️ <a href="https://github.com/su5867/TechShop" target="_blank">TechShop</a></h3>
+      <p>An <strong>e-commerce inspired web project</strong> focusing on product display, structured system design, and responsive frontend.</p>
       <p>💻 Tech: Java, Spring Boot, MySQL, HTML, CSS, JavaScript</p>
     </td>
     <td width="50%">
-      <h3>♟️ Chess Game</h3>
-      <p>A **logic-based Java application** to practice interactivity, game rules, and object-oriented programming.</p>
-      <p>💻 Tech: Java, Swing / JavaFX (frontend)</p>
+      <h3>♟️ <a href="https://github.com/su5867/Chess-Game" target="_blank">Chess Game</a></h3>
+      <p>A <strong>logic-based typescript application</strong> to practice interactivity, game rules, and object-oriented programming.</p>
+      <p>💻 Tech: Typescript</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🔨 Online Auction System</h3>
-      <p>A **web application simulating auction workflows**, with bidding logic, user authentication, and frontend-backend integration.</p>
+      <h3>🔨 <a href="https://github.com/su5867/Online-Auction-System" target="_blank">Online Auction System</a></h3>
+      <p>A <strong>web application simulating auction workflows</strong>, with bidding logic, user authentication, and frontend-backend integration.</p>
       <p>💻 Tech: Java, Spring Boot, MySQL, HTML, CSS, JavaScript</p>
     </td>
-    <td width="50%">
-      <h3>📱 Flutter Mobile App</h3>
-      <p>A **cross-platform mobile app** built with Flutter & Dart, featuring responsive UI and smooth navigation.</p>
-      <p>💻 Tech: Flutter, Dart</p>
-    </td>
-  </tr>
 </table>
 
-> 📌 *More projects are available in my repositories.*
+> 📌 More projects are available in my repositories.
 
 ---
 
