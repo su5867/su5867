@@ -61,27 +61,43 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured / Pinned Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3>📝 Online Examination System</h3>
-      <p>A Java Spring Boot based web application for online exams with structured backend and frontend integration.</p>
+      <p>A **full-stack Java Spring Boot** web app for online exams with user authentication, role-based access, question management, and result generation.</p>
+      <p>💻 Tech: Java, Spring Boot, MySQL, HTML, CSS, JavaScript</p>
     </td>
     <td width="50%">
       <h3>📦 Online Order Management System</h3>
-      <p>A project designed to manage products, orders, and user operations in a practical workflow.</p>
+      <p>Manage products, customer orders, and admin operations with a **web-based CRUD system**. Demonstrates backend logic and workflow management.</p>
+      <p>💻 Tech: Java, Spring Boot, MySQL, HTML, CSS, JavaScript</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🛍️ TechShop</h3>
-      <p>An e-commerce inspired project focused on product display, system structure, and web functionality.</p>
+      <p>An **e-commerce inspired web project** focusing on product display, structured system design, and responsive frontend.</p>
+      <p>💻 Tech: Java, Spring Boot, MySQL, HTML, CSS, JavaScript</p>
     </td>
     <td width="50%">
       <h3>♟️ Chess Game</h3>
-      <p>A logic-based project built to practice interactivity, game rules, and frontend/backend coordination.</p>
+      <p>A **logic-based Java application** to practice interactivity, game rules, and object-oriented programming.</p>
+      <p>💻 Tech: Java, Swing / JavaFX (frontend)</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔨 Online Auction System</h3>
+      <p>A **web application simulating auction workflows**, with bidding logic, user authentication, and frontend-backend integration.</p>
+      <p>💻 Tech: Java, Spring Boot, MySQL, HTML, CSS, JavaScript</p>
+    </td>
+    <td width="50%">
+      <h3>📱 Flutter Mobile App</h3>
+      <p>A **cross-platform mobile app** built with Flutter & Dart, featuring responsive UI and smooth navigation.</p>
+      <p>💻 Tech: Flutter, Dart</p>
     </td>
   </tr>
 </table>
