@@ -102,14 +102,14 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=su5867&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su5867&layout=compact&theme=radical" height="170" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=su5867&theme=radical" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=su5867&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=su5867&layout=compact&theme=radical&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=su5867&theme=radical&hide_border=true" />
+
+</div>
 
 ---
 
