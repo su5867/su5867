@@ -103,13 +103,14 @@
 ## 📊 GitHub Analytics
 
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=su5867&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="170" alt="Supriya's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su5867&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=su5867&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su5867&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=su5867&theme=radical&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=su5867&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
