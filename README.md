@@ -28,7 +28,7 @@
 
 ## 🌸 About Me
 
-- 🎓 I'm currently pursuing **BSc CSIT**
+- 🎓 I have completed my Bachelor's degree in **BSc CSIT**
 - 💻 I enjoy building **real-world software projects**
 - ☕ My main focus is **Java, Spring Boot, MySQL, and Full-Stack Development**
 - 🎨 I also love working on **frontend design and user-friendly interfaces**
