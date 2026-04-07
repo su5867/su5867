@@ -103,12 +103,6 @@
 ## 📊 GitHub Analytics
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=su5867&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su5867&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=su5867&theme=tokyonight&hide_border=true"/>
 </p>
