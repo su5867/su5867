@@ -2,13 +2,14 @@
         GITHUB PROFILE README FOR su5867
 ========================================= -->
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Supriya Dwivedi</h1>
+<h3 align="center">💼 Full-Stack Developer & Project Manager | ☕ Java & Spring Boot | ⚛️ React & TypeScript</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Supriya%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Project%20Manager%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=58&descSize=18" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E75480&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Project+Manager;Java+%2B+Spring+Boot+%2B+React+%2F+TypeScript;Building+Real-World+Products+for+Real+Clients;Nepal-Focused+Payment+%26+Compliance+Integrations+%F0%9F%92%9C" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E75480&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+Project+Manager;Java+%2B+Spring+Boot+%2B+React+%2F+TypeScript;Building+Real-World+Products+for+Real+Clients;Nepal-Focused+Payment+%26+Compliance+Integrations+💜" alt="Typing SVG" />
-
-<p>
+<p align="center">
   <a href="https://github.com/su5867">
     <img src="https://img.shields.io/github/followers/su5867?label=Followers&style=for-the-badge&color=ff69b4" />
   </a>
@@ -25,8 +26,6 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-8a2be2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
-
-</div>
 
 ---
 
@@ -126,7 +125,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=su5867&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=su5867&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=su5867&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -134,13 +133,7 @@
   <img src="https://streak-stats.demolab.com?user=su5867&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=su5867&theme=tokyo-night" />
-</p>
+> If the two cards above don't load right away, refresh the page — they're generated on‑the‑fly by a free public service (github-readme-stats) that occasionally gets rate-limited. Everything else on this page is served from other, more reliable services.
 
 ---
 
@@ -167,7 +160,5 @@
 > **"Learning, building, and improving one project at a time."** 💜
 
 <img src="https://komarev.com/ghpvc/?username=su5867&label=Profile%20Views&color=ff69b4&style=flat" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
